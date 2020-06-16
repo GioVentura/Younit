@@ -475,6 +475,7 @@ canvas {
 .mega-menu-content a {
     font-size: 0.85rem;
     font-weight: 500;
+    width: 130%;
 }
 .nav-uppercase .navbar-nav .nav-link {
     font-size: 0.7rem;
@@ -549,6 +550,7 @@ canvas {
     color: #303030;
     cursor: pointer;
     transition: all 200ms ease-in-out;
+
 }
 .navbar-other .nav-item+.nav-item {
     padding-left: 0.8rem;
